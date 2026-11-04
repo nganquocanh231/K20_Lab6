@@ -2,7 +2,7 @@
 ## Sản phẩm này là gì? 
 website giới thiệu bản thân
 ## Demo 
-https://github.com/nganquocanh231/k20_fortpolio_20-02
+https://nganquocanh231.github.io/k20_fortpolio_20-02/
 ## Tính năng - website giới thiệu bản thân
 ## Cách mở 
 1. Mở URL ở mục Demo.
