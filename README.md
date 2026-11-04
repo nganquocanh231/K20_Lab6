@@ -2,7 +2,7 @@
 ## Sản phẩm này là gì? 
 website giới thiệu bản thân
 ## Demo 
-https://github.com/nganquocanh231/K20_Lab6
+https://nganquocanh231.github.io/K20_Lab6/
 ## Tính năng - website giới thiệu bản thân
 ## Cách mở 
 1. Mở URL ở mục Demo.
