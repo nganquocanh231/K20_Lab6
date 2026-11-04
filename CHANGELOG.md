@@ -7,5 +7,4 @@ chỉnh sửa index.html vầ ket-qua.html của thầy gửi thành của mình
 # bản 4 
 chỉnh sửa AI_log.md của thầy gửi và gửi lên git hub
 # bản 5
-trong index.html đã thay thế ảnh cũ bằng ảnh bản thân mình , ảnh dự án cũ thay bằng ảnh của mình , sửa README.md trong vs code rồi đẩy lên git hub.
-
+trong index.html đã thay thế ảnh cũ bằng ảnh bản thân mình.
